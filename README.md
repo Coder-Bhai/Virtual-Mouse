@@ -1,15 +1,15 @@
-# Virtual-Mouse
-Controlling mouse cursor using gesture recognition with only CPU
+# Virtual-Mouse 🖱
+Controlling mouse cursor using gesture recognition with only CPU 
 
-## Getting Started
+## Getting Started 🚀
 
-### Requirements
+### Requirements 📃
 
 * python 3.7
 * mediapipe
 * cv2
 * pyautogui
 
-## License
+## License 📝
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
